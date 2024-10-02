@@ -56,26 +56,6 @@
 
 ---
 
-## 🌟 Projects
-
-### [**Ubuy E-commerce WebApp**](#)  
-*TypeScript, Next.js, Redux, Tailwind*  
-- Built a responsive web app with **NEXT.JS (SSR)**.
-- Integrated 4+ product variations and pre-order functionality.
-- Led frontend development in **TypeScript**, optimizing API performance.
-
-### [**DNS Resolver**](#)  
-*UDP Protocols, Javascript*  
-- Developed a **DNS resolver** to translate domain names into IP addresses.
-- Designed to handle multiple DNS query types with efficient resolution.
-
-### [**Portfolio Website**](#)  
-*HTML, CSS, JavaScript*  
-- Developed and deployed a static portfolio website.
-- Implemented dark/light mode toggle and email integration.
-
----
-
 ## 🎯 Achievements
 
 - Solved **250+ DSA problems** on Leetcode.
@@ -106,4 +86,4 @@
 
 ---
 
-Thanks for visiting my profile! Feel free to check out my projects or reach out for collaborations.
+Thanks for visiting my profile! Feel free to check out my work or reach out for collaborations.
