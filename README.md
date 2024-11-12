@@ -58,7 +58,7 @@
 
 ## 🎯 Achievements
 
-- Solved **250+ DSA problems** on Leetcode.
+- Solved **300+ DSA problems** on Leetcode.
 - Led a team of 3 members in a **Hackathon event**.
 
 ---
